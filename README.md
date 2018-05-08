@@ -42,3 +42,8 @@
 
 ### 必逛
  - 唐吉軻德 - [店鋪位置](http://www.donki-global.com/zhtw/store/shop_list.php?pid=30)
+
+
+### 參考
+[matcha-jp.com](https://matcha-jp.com/tw/list/?region=41&category=all)  
+

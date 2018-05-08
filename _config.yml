@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 name:
-description: 東京旅遊
+description: 東京旅遊 :tokyo_tower:
 plugins:
   - jemoji # for Emoji
 # ref https://github.com/maciakl/Sample-Jekyll-Site/blob/master/_config.yml

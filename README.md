@@ -12,7 +12,7 @@
 
 
 ### 必吃
-日本人都用 [Tabelog](https://tabelog.com/tw/) 和 [yelp](https://www.yelp.com/%E6%9D%B1%E4%BA%AC) 去找吃喝的餐廳.  
+日本人都用 [Tabelog](https://tabelog.com/tw/) 和 [yelp](https://www.yelp.com/%E6%9D%B1%E4%BA%AC) 去找吃喝的餐廳. 所以也可以用這兩個網站去找吃的.  
 
 #### 拉麵 Ramen :ramen:
  - AFURI柚子拉麵 - [原宿](https://tabelog.com/tw/tokyo/A1306/A130601/13095244/) [六本木](https://tabelog.com/tw/tokyo/A1307/A130701/13167723/dtlmap/) [中目黑](https://tabelog.com/tw/tokyo/A1317/A131701/13129706/dtlmap/) [惠比壽](https://tabelog.com/tw/tokyo/A1303/A130302/13005500/) 澀谷 新宿 都有分店, 有素食菜單. [官網](http://afuri.com/findus/)  

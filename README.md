@@ -13,7 +13,7 @@
 
 ### 必吃
 #### 拉麵 Ramen :ramen:
- - AFURI柚子拉麵 - 六本木 澀谷 新宿 都有分店, 有素食菜單.
+ - AFURI柚子拉麵 - [原宿](https://tabelog.com/tw/tokyo/A1306/A130601/13095244/) [六本木](https://tabelog.com/tw/tokyo/A1307/A130701/13167723/dtlmap/) [中目黑](https://tabelog.com/tw/tokyo/A1317/A131701/13129706/dtlmap/) 澀谷 新宿 都有分店, 有素食菜單. [官網](http://afuri.com/findus/)  
 
 #### 壽司 Sushi :sushi:
 

@@ -1,5 +1,7 @@
 theme: jekyll-theme-slate
-name: 000
-description: 東京旅遊
-markdown: rdiscount
+name:
+description: 東京旅遊123
+#markdown: rdiscount
+plugins:
+  - jemoji # for Emoji
 # ref https://github.com/maciakl/Sample-Jekyll-Site/blob/master/_config.yml

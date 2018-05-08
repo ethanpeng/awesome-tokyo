@@ -8,6 +8,7 @@
 - 東京星巴克城市杯 約1800日幣
 - 藍瓶咖啡馬克杯 約2000日幣
 - Kalita 鶴嘴 木柄握把 不銹鋼手沖壺1.0L [圖片參考](https://lebrewlife.co/product/2983/)
+- 日本 Kalita 大嘴鳥達人琺瑯鶴嘴手沖壺 白色1000ml [圖片參考](https://lebrewlife.co/product/%E6%97%A5%E6%9C%ACkalita%E5%A4%A7%E5%98%B4%E9%B3%A5%E9%81%94%E4%BA%BA%E7%90%BA%E7%91%AF%E9%B6%B4%E5%98%B4%E6%89%8B%E6%B2%96%E5%A3%BA%E7%99%BD%E8%89%B21000ml/)
 - 日本 HARIO V60 01陶瓷濾杯 白色 [圖片參考](https://lebrewlife.co/product/%E6%97%A5%E6%9C%AC-hario-v60-%E5%9C%93%E9%8C%90%E5%9E%8B%E6%BF%BE%E6%BF%BE%E6%9D%AF-%E7%99%BD%E8%89%B2/)
 
 - [京都一保堂 高級日本茶](http://vivianchiu.pixnet.net/blog/post/32335585-%5B%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%B2%B7%E7%89%A9%E6%8E%A8%E8%96%A6%5D%E4%BA%AC%E9%83%BD%E4%B8%80%E4%BF%9D%E5%A0%82%EF%BC%8E%E9%AB%98%E7%B4%9A%E6%97%A5%E6%9C%AC%E8%8C%B6)  

@@ -42,7 +42,9 @@
 ### 必去
 
 ### 必逛
- - 唐吉軻德 - [店鋪位置](http://www.donki-global.com/zhtw/store/shop_list.php?pid=30)
+ - 唐吉軻德 - [店鋪位置](http://www.donki-global.com/zhtw/store/shop_list.php?pid=30)  
+ [201711 澀谷MEGA唐吉訶德(七層樓)](http://tokyo.letsgojp.com/archives/288588/)  
+ [20170122 淺草店東京最好逛的驚安分店](https://boo2k.com/archives/38137)  
 
 
 ### 參考

@@ -14,6 +14,7 @@
 - 六本木新城觀景台
 - 東京車站  
 [JR東京車站 完全解析](http://tokyo.letsgojp.com/archives/98676/)  
+http://lazyjapan.com/regions/tokyo/spots/areas/a1/tokyo-station.html  
 
 ### 築地、汐留、台場周邊
 

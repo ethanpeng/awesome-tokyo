@@ -1,7 +1,9 @@
 # Awesome Tokyo
+```
 ![](http://www.jreast.co.jp/tc/destinations/tokyo/img/map.jpg)  
 ![](http://www.jreast.co.jp/tc/destinations/tokyo/img/img_jryamanote.jpg)![](http://www.jreast.co.jp/tc/destinations/tokyo/img/img_jrsobu.jpg)![](http://www.jreast.co.jp/tc/destinations/tokyo/img/img_jrchuo.jpg)![](http://www.jreast.co.jp/tc/destinations/tokyo/img/img_jrkeiyo.jpg)![](http://www.jreast.co.jp/tc/destinations/tokyo/img/img_naritaexpress.jpg)![](http://www.jreast.co.jp/tc/destinations/tokyo/img/img_tokyomonorail.jpg)![](http://www.jreast.co.jp/tc/destinations/tokyo/img/img_subways.jpg)  
 [圖片來源](http://www.jreast.co.jp/tc/destinations/tokyo/index.html)
+```
 
 ### 淺草、上野周邊
 - 淺草寺
@@ -19,6 +21,8 @@
 
 ### 下北澤、吉祥寺周邊
 
+### 未分類
+- 清澄白河
 
 ### 必吃
 日本人都用 [Tabelog](https://tabelog.com/tw/) 和 [yelp](https://www.yelp.com/%E6%9D%B1%E4%BA%AC) 去找吃喝的餐廳. 所以也可以用這兩個網站去找吃的.  

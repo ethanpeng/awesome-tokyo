@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-name:000
+name: 000
 description: 東京旅遊
 markdown: rdiscount
 # ref https://github.com/maciakl/Sample-Jekyll-Site/blob/master/_config.yml

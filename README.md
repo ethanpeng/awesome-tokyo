@@ -19,7 +19,7 @@
 http://lazyjapan.com/regions/tokyo/spots/areas/a1/tokyo-station.html  
   + 東京駅一番街  
 
-- 史努比博物館
+- 史努比博物館 snoopy museum
 
 ### 築地、汐留、台場周邊
 - 大江戶溫泉物語 - 溫泉主題樂園，穿浴衣逛江戶 https://mimihan.tw/2016-11-19-1256/

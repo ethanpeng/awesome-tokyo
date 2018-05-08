@@ -51,7 +51,10 @@ http://lazyjapan.com/regions/tokyo/spots/areas/a1/tokyo-station.html
 #### 蕎麥麵 Soba
 
 #### 咖啡 Coffee :coffee:
- - 藍瓶咖啡 - 目前有清澄白河店、表參道青山店、新宿店、六本木店、中目黑店、品川店六間. [官網](https://lebrewlife.co/blue-bottle/)
+ - 藍瓶咖啡 Blue bottle - 目前有[清澄白河店](https://tabelog.com/tw/tokyo/A1313/A131303/13177218/):+1:、[表參道青山店](https://tabelog.com/tw/tokyo/A1306/A130602/13179495/):+1:、新宿店、[六本木店](https://tabelog.com/tw/tokyo/A1307/A130701/13200314/)、中目黑店、品川店六間. [分店資訊](https://lebrewlife.co/blue-bottle/)  
+ - 
+
+#### 抹茶
 
 ### 必買
 

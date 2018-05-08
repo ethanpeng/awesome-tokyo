@@ -55,8 +55,8 @@ http://lazyjapan.com/regions/tokyo/spots/areas/a1/tokyo-station.html
  - Fuglen Tokyo - 來自北歐挪威的咖啡名店Fuglen，海外[第一家店](https://tabelog.com/tw/tokyo/A1318/A131810/13141002/)，位於代代木公園不遠處的後街角。
  - 猿田彥珈琲 - [恵比壽本店](https://tabelog.com/tw/tokyo/A1303/A130302/13127577/)
  
- 其他參考  
- http://tokyo.letsgojp.com/archives/93665/  
+其他參考  
+http://tokyo.letsgojp.com/archives/93665/  
  
 #### 抹茶
 

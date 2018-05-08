@@ -23,6 +23,7 @@
 
 ### 未分類
 - 清澄白河
+- 都電荒川線下町一日遊
 
 ### 必吃
 日本人都用 [Tabelog](https://tabelog.com/tw/) 和 [yelp](https://www.yelp.com/%E6%9D%B1%E4%BA%AC) 去找吃喝的餐廳. 所以也可以用這兩個網站去找吃的.  

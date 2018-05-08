@@ -26,4 +26,4 @@
 ### 必去
 
 ### 必逛
-唐吉軻德 - [店鋪位置](http://www.donki-global.com/zhtw/store/shop_list.php?pid=30)
+ - 唐吉軻德 - [店鋪位置](http://www.donki-global.com/zhtw/store/shop_list.php?pid=30)

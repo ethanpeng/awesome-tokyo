@@ -4,6 +4,9 @@
 [圖片來源](http://www.jreast.co.jp/tc/destinations/tokyo/index.html)
 
 ### 淺草、上野周邊
+- 淺草寺
+- 晴空塔
+- 阿美橫丁  
 
 ### 銀座、六本木周邊
 

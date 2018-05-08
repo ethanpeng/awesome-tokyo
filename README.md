@@ -44,6 +44,11 @@ http://lazyjapan.com/regions/tokyo/spots/areas/a1/tokyo-station.html
 #### 拉麵 Ramen :ramen:
  - AFURI柚子拉麵 - [原宿](https://tabelog.com/tw/tokyo/A1306/A130601/13095244/):+1:、[六本木交差点](https://tabelog.com/tw/tokyo/A1307/A130701/13165303/):pray:、[六本木](https://tabelog.com/tw/tokyo/A1307/A130701/13167723/dtlmap/)、[中目黑](https://tabelog.com/tw/tokyo/A1317/A131701/13129706/dtlmap/):pray:、[惠比壽](https://tabelog.com/tw/tokyo/A1303/A130302/13005500/):pray:、[新宿](https://tabelog.com/tw/tokyo/A1304/A130401/13202091/)都有分店, 全部分店請看官網, 有素食菜單. [官網](http://afuri.com/findus/)  
 
+#### 丼飯
+- 松屋フーズ - 日本的三大連鎖丼飯，推薦牛丼(主打)、[鹽豚飯](https://www.matsuyafoods.co.jp/menu/don/don_negishiobuta.html)[(中文)](https://www.matsuyafoods.co.jp/cn/menu/don/don_negishiobuta.html):pray:、[特製醬汁肉煎雞蛋套餐¥650](https://www.matsuyafoods.co.jp/menu/teishoku/tei_brown_egg_hp.html)[(中文)](https://www.matsuyafoods.co.jp/cn/menu/teishoku/tei_brown_egg_hp.html):pray:
+- 吉野家 - 日本的三大連鎖丼飯
+- すき家sukiya - 日本的三大連鎖丼飯
+
 #### 壽司 Sushi :sushi:
 
 #### 燒肉 Yakiniku

@@ -53,7 +53,7 @@ http://lazyjapan.com/regions/tokyo/spots/areas/a1/tokyo-station.html
 #### 咖啡 Coffee :coffee:
  - 藍瓶咖啡 Blue bottle - 目前有[清澄白河店](https://tabelog.com/tw/tokyo/A1313/A131303/13177218/):+1:、[表參道青山店](https://tabelog.com/tw/tokyo/A1306/A130602/13179495/):pray:、[新宿店](https://tabelog.com/tw/tokyo/A1304/A130401/13193547/)、[六本木店](https://tabelog.com/tw/tokyo/A1307/A130701/13200314/)、中目黑店、品川店六間. [分店資訊](https://lebrewlife.co/blue-bottle/)  
  - Fuglen Tokyo - 來自北歐挪威的咖啡名店Fuglen，海外[第一家店](https://tabelog.com/tw/tokyo/A1318/A131810/13141002/)，位於代代木公園不遠處的後街角。
- - 猿田彥珈琲 - [恵比壽本店](https://tabelog.com/tw/tokyo/A1303/A130302/13127577/)
+ - 猿田彥珈琲 - 2014年日本拿鐵拉花的冠軍，[恵比壽本店](https://tabelog.com/tw/tokyo/A1303/A130302/13127577/)
  
 其他參考  
 http://tokyo.letsgojp.com/archives/93665/  

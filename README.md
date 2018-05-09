@@ -14,11 +14,7 @@
 
 ### 銀座、六本木周邊
 - 六本木新城觀景台
-- 東京車站  
-[JR東京車站 完全解析](http://tokyo.letsgojp.com/archives/98676/)  
-http://lazyjapan.com/regions/tokyo/spots/areas/a1/tokyo-station.html  
-  + 東京駅一番街  
-
+- 東京車站 
 - [史努比博物館 Snoopy Museum Tokyo (スヌーピーミュージアム)](https://www.yelp.com/biz/%E3%82%B9%E3%83%8C%E3%83%BC%E3%83%94%E3%83%BC%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%E6%9D%B1%E4%BA%AC-%E6%B8%AF%E5%8C%BA)
 
 ### 築地、汐留、台場周邊

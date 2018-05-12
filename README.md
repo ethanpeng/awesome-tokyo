@@ -1,9 +1,7 @@
 # Awesome Tokyo
-```
 ![](http://www.jreast.co.jp/tc/destinations/tokyo/img/map.jpg)  
 ![](http://www.jreast.co.jp/tc/destinations/tokyo/img/img_jryamanote.jpg)![](http://www.jreast.co.jp/tc/destinations/tokyo/img/img_jrsobu.jpg)![](http://www.jreast.co.jp/tc/destinations/tokyo/img/img_jrchuo.jpg)![](http://www.jreast.co.jp/tc/destinations/tokyo/img/img_jrkeiyo.jpg)![](http://www.jreast.co.jp/tc/destinations/tokyo/img/img_naritaexpress.jpg)![](http://www.jreast.co.jp/tc/destinations/tokyo/img/img_tokyomonorail.jpg)![](http://www.jreast.co.jp/tc/destinations/tokyo/img/img_subways.jpg)  
 [圖片來源](http://www.jreast.co.jp/tc/destinations/tokyo/index.html)
-```
 
 ### 淺草、上野周邊
 - 淺草寺
@@ -69,7 +67,7 @@ http://tokyo.letsgojp.com/archives/93665/
  [201711 澀谷MEGA唐吉訶德(七層樓)](http://tokyo.letsgojp.com/archives/288588/)  
  [20170122 淺草店東京最好逛的驚安分店](https://boo2k.com/archives/38137)  
  - Yodobashi
- - Bic Camera
+ - Bic Camera - [店鋪位置](http://www.biccamera.co.jp.t.lj.hp.transer.com/shoplist/index.html)
 
 ### [東京近郊](東京近郊.md)
 

@@ -50,6 +50,7 @@
 #### 咖哩 :curry:
 
 #### 壽司 Sushi :sushi:
+ - 板前寿司 ITAMAE SUSHI - [Tabelog 3.51](https://tabelog.com/tw/tokyo/A1308/A130801/13045616/) :pray:
 
 #### 燒肉 Yakiniku
 

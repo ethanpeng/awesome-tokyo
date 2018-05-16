@@ -37,6 +37,9 @@
 #### 拉麵 Ramen :ramen:
  - AFURI柚子拉麵 - [原宿](https://tabelog.com/tw/tokyo/A1306/A130601/13095244/):+1:、[六本木交差点](https://tabelog.com/tw/tokyo/A1307/A130701/13165303/):pray:、[六本木](https://tabelog.com/tw/tokyo/A1307/A130701/13167723/dtlmap/)、[中目黑](https://tabelog.com/tw/tokyo/A1317/A131701/13129706/dtlmap/):pray:、[惠比壽](https://tabelog.com/tw/tokyo/A1303/A130302/13005500/):pray:、[新宿](https://tabelog.com/tw/tokyo/A1304/A130401/13202091/)都有分店, 全部分店請看官網, 有素食菜單. [官網](http://afuri.com/findus/)  
 
+#### 沾麵
+ - 舍鈴:+1:
+
 #### 丼飯
 - 松屋フーズ - 日本的三大連鎖丼飯，推薦牛丼(主打)、[鹽豚飯](https://www.matsuyafoods.co.jp/menu/don/don_negishiobuta.html)[(中文)](https://www.matsuyafoods.co.jp/cn/menu/don/don_negishiobuta.html):pray:、[特製醬汁肉煎雞蛋套餐¥650](https://www.matsuyafoods.co.jp/menu/teishoku/tei_brown_egg_hp.html)[(中文)](https://www.matsuyafoods.co.jp/cn/menu/teishoku/tei_brown_egg_hp.html):pray:
 - 吉野家 - 日本的三大連鎖丼飯
@@ -49,7 +52,7 @@
 #### 蕎麥麵 Soba
 
 #### 咖啡 Coffee :coffee:
- - 藍瓶咖啡 Blue bottle - 目前有[清澄白河店](https://tabelog.com/tw/tokyo/A1313/A131303/13177218/):+1:、[表參道青山店](https://tabelog.com/tw/tokyo/A1306/A130602/13179495/):pray:、[新宿店](https://tabelog.com/tw/tokyo/A1304/A130401/13193547/)、[六本木店](https://tabelog.com/tw/tokyo/A1307/A130701/13200314/)、中目黑店、品川店六間. [分店資訊](https://lebrewlife.co/blue-bottle/)  
+ - 藍瓶咖啡 Blue bottle - 目前有[清澄白河店](https://tabelog.com/tw/tokyo/A1313/A131303/13177218/):+1:、[表參道青山店](https://tabelog.com/tw/tokyo/A1306/A130602/13179495/):pray:、[新宿店](https://tabelog.com/tw/tokyo/A1304/A130401/13193547/)、[六本木店](https://tabelog.com/tw/tokyo/A1307/A130701/13200314/):+1:、中目黑店、品川店六間. [分店資訊](https://lebrewlife.co/blue-bottle/)  
  - Fuglen Tokyo - 來自北歐挪威的咖啡名店Fuglen，海外[第一家店](https://tabelog.com/tw/tokyo/A1318/A131810/13141002/):pray:，位於代代木公園不遠處的後街角。
  - 猿田彥珈琲 - 2014年日本拿鐵拉花的冠軍，[恵比壽本店](https://tabelog.com/tw/tokyo/A1303/A130302/13127577/):pray:
  

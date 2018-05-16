@@ -51,6 +51,7 @@
 
 #### 壽司 Sushi :sushi:
  - 板前寿司 ITAMAE SUSHI - [Tabelog 3.51](https://tabelog.com/tw/tokyo/A1308/A130801/13045616/) :pray:
+ - ひまわり寿司 Himawarizushi - [Tabelog 3.51](https://tabelog.com/tw/tokyo/A1304/A130401/13056705/) :pray:
 
 #### 燒肉 Yakiniku
 

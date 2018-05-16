@@ -41,15 +41,19 @@
  - 舍鈴:+1:
 
 #### 丼飯
-- 松屋フーズ - 日本的三大連鎖丼飯，推薦牛丼(主打)、[鹽豚飯](https://www.matsuyafoods.co.jp/menu/don/don_negishiobuta.html)[(中文)](https://www.matsuyafoods.co.jp/cn/menu/don/don_negishiobuta.html):pray:、[特製醬汁肉煎雞蛋套餐¥650](https://www.matsuyafoods.co.jp/menu/teishoku/tei_brown_egg_hp.html)[(中文)](https://www.matsuyafoods.co.jp/cn/menu/teishoku/tei_brown_egg_hp.html):pray:
+- 松屋フーズ - 日本的三大連鎖丼飯，推薦牛丼(主打)、[鹽豚飯](https://www.matsuyafoods.co.jp/menu/don/don_negishiobuta.html)[(中文)](https://www.matsuyafoods.co.jp/cn/menu/don/don_negishiobuta.html):ok_hand:、[特製醬汁肉煎雞蛋套餐¥650](https://www.matsuyafoods.co.jp/menu/teishoku/tei_brown_egg_hp.html)[(中文)](https://www.matsuyafoods.co.jp/cn/menu/teishoku/tei_brown_egg_hp.html):clap:
 - 吉野家 - 日本的三大連鎖丼飯
 - すき家sukiya - 日本的三大連鎖丼飯
+
+#### 咖哩 :curry:
 
 #### 壽司 Sushi :sushi:
 
 #### 燒肉 Yakiniku
 
 #### 蕎麥麵 Soba
+
+#### 茶 / 抹茶 :tea:
 
 #### 咖啡 Coffee :coffee:
  - 藍瓶咖啡 Blue bottle - 目前有[清澄白河店](https://tabelog.com/tw/tokyo/A1313/A131303/13177218/):+1:、[表參道青山店](https://tabelog.com/tw/tokyo/A1306/A130602/13179495/):ok_hand:、[新宿店](https://tabelog.com/tw/tokyo/A1304/A130401/13193547/)、[六本木店](https://tabelog.com/tw/tokyo/A1307/A130701/13200314/):+1:、中目黑店、品川店六間. [分店資訊](https://lebrewlife.co/blue-bottle/)  

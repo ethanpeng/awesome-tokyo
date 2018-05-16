@@ -41,7 +41,7 @@
  - 舍鈴:clap:
 
 #### 丼飯
-- 松屋フーズ - 日本的三大連鎖丼飯，推薦牛丼(主打)、[鹽豚飯](https://www.matsuyafoods.co.jp/menu/don/don_negishiobuta.html)[(中文)](https://www.matsuyafoods.co.jp/cn/menu/don/don_negishiobuta.html):ok_hand:、[特製醬汁肉煎雞蛋套餐¥650](https://www.matsuyafoods.co.jp/menu/teishoku/tei_brown_egg_hp.html)[(中文)](https://www.matsuyafoods.co.jp/cn/menu/teishoku/tei_brown_egg_hp.html):clap:
+- 松屋フーズ - 日本的三大連鎖丼飯，推薦牛丼(主打):clap:、[鹽豚飯](https://www.matsuyafoods.co.jp/menu/don/don_negishiobuta.html)[(中文)](https://www.matsuyafoods.co.jp/cn/menu/don/don_negishiobuta.html):ok_hand:、[特製醬汁肉煎雞蛋套餐¥650](https://www.matsuyafoods.co.jp/menu/teishoku/tei_brown_egg_hp.html)[(中文)](https://www.matsuyafoods.co.jp/cn/menu/teishoku/tei_brown_egg_hp.html):clap:
 - 吉野家 - 日本的三大連鎖丼飯
 - すき家sukiya - 日本的三大連鎖丼飯
 

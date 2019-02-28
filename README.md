@@ -43,7 +43,7 @@
  - 風雲兒 - [Tabelog 3.64](https://tabelog.com/tw/tokyo/A1304/A130401/13044091/) :pray:
 
 #### 丼飯
-- 松屋フーズ - 日本的三大連鎖丼飯，推薦牛丼(主打):clap:、[鹽豚飯](https://www.matsuyafoods.co.jp/menu/don/don_negishiobuta.html)[(中文)](https://www.matsuyafoods.co.jp/cn/menu/don/don_negishiobuta.html):ok_hand:、[特製醬汁肉煎雞蛋套餐¥650](https://www.matsuyafoods.co.jp/menu/teishoku/tei_brown_egg_hp.html)[(中文)](https://www.matsuyafoods.co.jp/cn/menu/teishoku/tei_brown_egg_hp.html):clap:
+- 松屋フーズ - 日本的三大連鎖丼飯，推薦[牛丼(主打)](https://www.matsuyafoods.co.jp/menu/pre_gyuu/pre_gyu_hp.html)[(中文)](https://www.matsuyafoods.co.jp/cn/menu/pre_gyuu/pre_gyu_hp.html):+1:、[蔥花半熟雞蛋牛丼](https://www.matsuyafoods.co.jp/menu/pre_gyuu/pre_gyu_negitama_hp.html)[(中文)](https://www.matsuyafoods.co.jp/cn/menu/pre_gyuu/pre_gyu_negitama_hp.html):+1:、[特製醬汁肉煎雞蛋套餐¥650](https://www.matsuyafoods.co.jp/menu/teishoku/tei_brown_egg_hp.html)[(中文)](https://www.matsuyafoods.co.jp/cn/menu/teishoku/tei_brown_egg_hp.html):clap:
 - 吉野家 - 日本的三大連鎖丼飯
 - すき家sukiya - 日本的三大連鎖丼飯
 
